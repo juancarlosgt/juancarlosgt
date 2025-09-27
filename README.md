@@ -18,49 +18,34 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
+![](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
+![](https://img.shields.io/badge/spring-0e5804?style=for-the-badge&logo=spring)
+![](https://img.shields.io/badge/Flask-b3dcf3?style=for-the-badge&logo=flask)
+![](https://img.shields.io/badge/python-fafa73?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/java-f8b645?style=for-the-badge)
 
 ###
 
 <h3 align="left">Frontend Development</h3>
 
 ###
+![](https://img.shields.io/badge/html-383a3a?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/css-2121ec?style=for-the-badge)
+![](https://img.shields.io/badge/javascript-50504d?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/react-2d3131?style=for-the-badge&logo=react)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
 
 ###
 
 <h3 align="left">Databases</h3>
 
 ###
+![](https://img.shields.io/badge/mysql-orange?style=for-the-badge)
+![](https://img.shields.io/badge/PostgreSQL-ecbd83?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+![](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
 
 ###
 
@@ -68,30 +53,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
+![](https://img.shields.io/badge/kotlin-orange?style=for-the-badge&logo=kotlin)
+![](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)
+![](https://img.shields.io/badge/android%20studio-5e6163?style=for-the-badge&logo=androidstudio)
 
 ###
 
 <h3 align="left">DevOps</h3>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
+![](https://img.shields.io/badge/docker-5e6163?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/git-2d3033?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/github-2d3033?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/github%20actions-2d3033?style=for-the-badge&logo=githubactions)
+![](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase)
 ###
 
 <h2 align="left">📊 GitHub Stats:</h2>
